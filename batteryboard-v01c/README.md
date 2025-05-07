@@ -17,10 +17,6 @@
          - excess discharge-current
          - excess charge-current
 
-Tested against the following flight requirement documents:
-(the cells you use play a big role here)
-   - TBA
-
 ## Interactive Bill of Materials 🛒
 - [batteryboard-v01](https://pycubed.github.io/hardware/batteryboard-v01)
 
