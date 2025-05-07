@@ -1,6 +1,4 @@
-# PyCubed Battery Board 🔋
-
-## [⭐ See the PyCubed Battery page for more details](https://www.notion.so/maholli/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d)
+# PyCubed Battery Board
 
 <p align="middle">
   <img width="700" src="https://github.com/pycubed/documentation/blob/master/images/PyCubed_batteryboard-v01.jpg">
