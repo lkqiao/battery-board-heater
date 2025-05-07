@@ -18,8 +18,6 @@
 ## Interactive Bill of Materials 🛒
 - [batteryboard-v01](https://pycubed.github.io/hardware/batteryboard-v01)
 
-This board is merely a starting point for your spacecraft. Always follow the requirements set forth by your launch provider and integrator.
-
 <br>
 <br>
 <br>
